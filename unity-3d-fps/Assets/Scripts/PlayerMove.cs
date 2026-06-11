@@ -55,11 +55,6 @@ public class PlayerMove : MonoBehaviour
         Movement();  
     }
 
-    void GenerateRandom()
-    {
-        
-    }
-
     void MouseLook()
     {
         //Input has built-in Mouse X and Mouse Y.
